@@ -36,8 +36,6 @@ char* read_file(const char* file_name){
 
 
 int main(){
-    std::cout << vert << "\n";
-    return 0;
     GLFWwindow *wind;
 
     if(!glfwInit())
